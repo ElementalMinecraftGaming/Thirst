@@ -1,0 +1,17 @@
+name: Thirst
+main: elementalminecraftgaming\Thirst\Main
+version: 1.0.0
+api: [3.11.1]
+load: POSTWORLD
+author: leet
+description: Add thirst to your server!
+
+commands:
+ water:
+  description: Check how much water someone has!
+  permission: thirst.player
+
+permissions:
+  thirst.player:
+    default: true
+    description: Let's you use Thirst commands

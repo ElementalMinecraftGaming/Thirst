@@ -1,7 +1,7 @@
 name: Thirst
 main: elementalminecraftgaming\Thirst\Main
 version: 1.0.0
-api: [3.11.1]
+api: [3.17.0]
 load: POSTWORLD
 author: leet
 description: Add thirst to your server!
